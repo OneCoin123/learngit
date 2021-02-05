@@ -1,3 +1,5 @@
 abc
 this is a test
 加了一行中文
+more about WorkDirectory, Stage and Repository
+this is more
