@@ -4,3 +4,6 @@ this is a test
 more about WorkDirectory, Stage and Repository
 this is more
 test the reomte repo
+创造岔口
+解决conflict
+
